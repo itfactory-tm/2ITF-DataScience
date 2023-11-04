@@ -1,2 +1,3 @@
 # 2ITF-DataScience
-Examples and exercises for the Data Science course in 2ITF-APP
+
+Examples and exercises for the Data Science course in 2ITF-APP.
