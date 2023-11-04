@@ -1,0 +1,136 @@
+ZCODE;Oms OLA;GROUP
+Z56488;Network Essentials (EN);GTI ACS 1ACS01
+Z60119;Windows System Administration;GTI EI 1ITF01
+Z60299;Project Hosting;GTI EI 2CCS01
+Z60291;Linux Webservices;GTI TI 2APPAI02
+Z56827;Professional Skills 1;GTI EI 1ITF05
+Z60112;Switching, Routing and Wireless Essentia;GTI EI 1ITF02
+Z60912;Project 4.0;GTI EI 3IOT01
+Z60911;Professional Skills 3;GTI EI 3IOT01
+Z62935;Professional Skills 3;GTI ACS 3AI01
+Z62934;Project 4.0;GTI ACS 3AI01
+Z56468;Requirements Analysis;GTI TI 2APPAI02
+Z62903;Application Development in Python;GTI EI 1ITF02
+Z60109;Application Development in Java;GTI EI 1ITF02
+Z60116;Data Analysis with SQL;GTI EI 1ITF05
+Z60924;Data Engineering;GTI ACS 3AI01
+Z63573;WT - Angular;GTI TI 3WT-APP01
+Z63571;WT - React;GTI TI 3WT-APP01
+Z62904;Webdesign Essentials;GTI EI 1ITF02
+Z56846;Professional Skills 1 (EN);GTI ACS 1ACS01
+Z60118;Webdesign Advanced;GTI EI 1ITF04
+Z62907;Troubleshooting;GTI EI 2IOT01
+Z60106;IoT Essentials;GTI EI 1ITF01
+Z62910;KNX Home Automation;GTI EI 2IOT01
+Z60898;IT Service Management;GTI EI 3CCS01
+Z60278;Business Processes & ITIL;GTI TI 2APPAI01
+Z56218;Project Case;nan
+Z56510;WT - Project PHP;GTI TI 2WT-APP01
+Z60917;Augmented Reality and Mobile App Develop;GTI TI 3APP01
+Z62922;Angular;GTI TI 3APP01
+Z60294;Web Applications in PHP;GTI TI 2APPAI02
+Z56840;.NET Development;GTI TI 2APPAI01
+Z56826;Security Essentials;GTI EI 1ITF06
+Z56841;WT - Adv programming topics & Mobile Dev;GTI TI 4WT-APP01
+Z56508;WT - English for IT;GTI TI 2WT-APP01
+Z60285;English 2;GTI TI 2APPAI01
+Z60284;English 2;GTI EI 2IOT01
+Z60297;Project PHP;GTI TI 2APPAI01
+Z60300;Project IoT;GTI EI 2IOT01
+Z63584;Project PHP (EN);GTI ACS 2ACS01
+Z63587;Professional Skills 2 (EN);GTI ACS 2ACS01
+Z60107;English 1;GTI EI 1ITF03
+Z56490;Webdesign Essentials (EN);GTI ACS 1ACS01
+Z56496;Webdesign Advanced (EN);GTI ACS 1ACS01
+Z63578;Web Applications in PHP (EN);GTI ACS 2ACS01
+Z56842;WT - Project 4.0;GTI TI 4WT-APP01
+Z60906;Embedded Devices Advanced;GTI EI 3IOT01
+Z62909;Embedded Devices Essentials;GTI EI 2IOT01
+Z56486;IT Essentials (EN);GTI ACS 1ACS01
+Z60304;Windows Server;GTI EI 2CCS02
+Z60290;Linux Network Services;GTI EI 2CCS02
+Z60305;DevOps & Security;GTI TI 2APPAI02
+Z60108;IT Essentials;GTI EI 1ITF03
+Z56839;WT - Linux Network Services and Project;GTI EI 2WT-CCS01
+Z62908;Embedded Interfacing;GTI EI 2IOT01
+Z60295;Professional Skills 2;GTI EI 2IOT01
+Z63179;Intercultural communication;nan
+Z60274;Survival Dutch;STAR
+Z56495;Data Analysis with SQL (EN);GTI ACS 1ACS01
+Z56847;Data Science (EN);GTI ACS 2ACS01
+Z60277;Business Essentials;GTI EI 2CCS02
+Z60279;Network and Cloud Automation;GTI EI 2CCS01
+Z60110;Linux Essentials;GTI EI 1ITF01
+Z56845;Security Essentials (EN);GTI ACS 1ACS01
+Z56835;Cloud Engineering;GTI EI 3CCS01
+Z56500;Big Data;GTI ACS 3AI01
+Z56503;Data Science;GTI ACS 3AI01
+Z56502;Artificial Intelligence Project;GTI ACS 3AI01
+Z62923;Artificial Intelligence;GTI EI 3IOT01
+Z63568;WT - Artificial Intelligence;GTI TI 3WT-APP01
+Z62926;WT - Network Essentials;GTI EI 1WT01
+Z60111;Network Essentials;GTI EI 1ITF02
+Z56853;Datacenter Technology;GTI EI 2CCS01
+Z56854;Network & OS Security;GTI EI 2CCS01
+Z56834;Cybersecurity & Security Operation Cente;GTI EI 3CCS01
+Z56504;WT - Data Science;GTI TI 2WT-APP01
+Z56831;Data Science;GTI TI 2APPAI01
+Z62906;Systems Engineering & Analysis;GTI EI 2IOT01
+Z62928;WT - Switching, Routing and Wireless Es;GTI EI 1WT01
+Z56838;WT - System Engineering & Analysis;GTI EI 2WT-CCS01
+Z56507;WT - Requirements Analysis;GTI TI 2WT-APP01
+Z63583;Java Advanced (EN);GTI ACS 2ACS01
+Z62924;WT - Data Analysis with SQL;GTI TI 1WT01
+Z56505;WT - Windows;GTI EI 2WT-CCS01
+Z56497;Windows System Administration (EN);GTI ACS 1ACS01
+Z60900;Cloud Technology;GTI EI 3CCS01
+Z56837;WT - Windows Server;GTI EI 2WT-CCS01
+Z60303;UML;GTI TI 2APPAI01
+Z63585;UML (EN);GTI ACS 2ACS01
+Z63581;Data Visualisation (EN);GTI ACS 2ACS01
+Z56832;API Development;GTI EI 2CCS01
+Z56501;Business Intelligence Project;GTI ACS 3AI01
+Z62920;Data Visualisation;GTI TI 2APPAI01
+Z63575;Requirements Analysis (EN);GTI ACS 2ACS01
+Z63574;Entrepeneurship (EN);GTI ACS 2ACS01
+Z56849;Religion, Meaning and Culture;GTI ACS 3AI
+Z60289;Java Advanced;GTI TI 2APPAI01
+Z62931;WT - Web Applications in Java;GTI EI 1WT01
+Z63572;WT - UML & Java Advanced;GTI TI 3WT-APP01
+Z56844;WT - Traineeship and Bachelor Portfolio;GTI TI 4WT-APP01
+Z60287;Français;GTI TI 2APPAI01
+Z60286;Français;GTI EI 2IOT01
+Z56498;Communication Skills 1 (EN);GTI ACS 1ACS01
+Z62925;WT - Application Development in Python;GTI EI 1WT01
+Z60923;Enterprise Content Services;GTI ACS 3AI01
+Z56848;.NET Development (EN);GTI ACS 2ACS01
+Z56843;WT - Business Intelligence;GTI TI 4WT-APP01
+Z56470;Smart Environments Project;GTI EI 3IOT01
+Z56467;Communication Technology Advanced;GTI EI 3IOT01
+Z60288;IoT Advanced;GTI EI 2IOT01
+Z62930;WT - IT Essentials;GTI EI 1WT01
+Z62913;Project Wireless;GTI EI 2IOT01
+Z62914;Smart Environments;GTI EI 2IOT01
+Z62911;Communication Technology;GTI EI 2IOT01
+Z56485;Application Development in Python (EN);GTI ACS 1ACS01
+Z63582;Business Processes & ITIL (EN);GTI ACS 2ACS01
+Z56509;WT - Linux;GTI EI 2WT-CCS01
+Z56836;WT - Enterprise Networking, Security and;GTI EI 2WT-CCS01
+Z56491;IoT Essentials (EN);GTI ACS 1ACS01
+Z63567;WT - IoT Essentials;GTI TI 3WT-APP01
+Z56487;Linux Essentials (EN);GTI ACS 1ACS01
+Z62912;FPGA Development;GTI EI 2IOT01
+Z56493;Switching, Routing and Wireless Essentia;GTI ACS 1ACS01
+Z60918;React;GTI TI 3APP01
+Z63569;WT - .NET Development;GTI TI 3WT-APP01
+Z56492;Application Development in Java (EN);GTI ACS 1ACS01
+Z63579;DevOps & Security (EN);GTI ACS 2ACS01
+Z63570;WT - Business Processes & ITIL;GTI TI 3WT-APP01
+Z62921;Enterprise Development Experience;GTI TI 3APP01
+Z56833;Cloud & Edge IoT;GTI EI 3IOT01
+Z63577;Linux Webservices (EN);GTI ACS 2ACS01
+Z62915;Enterprise Networking, Security and Auto;GTI EI 2CCS01
+Z56506;WT - Web Applications in PHP;GTI TI 2WT-APP01
+Z62927;WT - Webdesign Essentials;GTI EI 1WT01
+Z62929;WT - Webdesign Advanced;GTI EI 1WT01
+Z62966;Sales & Marketing;STAR Track
